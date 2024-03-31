@@ -1,9 +1,3 @@
-/*
-Assignment 4 (COEN 244)
-Student Name: Kevin Mandiouba
-Student ID: 40243497
-*/
-
 #pragma once
 #include <iostream>
 #include <string>
